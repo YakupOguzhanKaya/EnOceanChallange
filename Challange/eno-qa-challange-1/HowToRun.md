@@ -19,3 +19,7 @@ robot api.robot
 ### Challenge 3
 
 Please open a terminal and go to folder which `test_log_function.py` file is located, then run command below. 
+
+```
+python test_log_function.py
+```
